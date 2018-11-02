@@ -1,0 +1,19 @@
+
+body{
+	text-align: center;
+}
+h1{
+	font-family: Georgia;
+}
+.message{
+	font-family: Brush Script MT;
+	font-size: 28px;
+}
+.keyName{
+	font-family: New Century Schoolbook;
+	text-align: center;
+}
+.valueName{
+	font-family: Courier;
+	text-align: center;
+}
