@@ -1,13 +1,17 @@
-
 body{
 	text-align: center;
+	background-image: url(bk.jpg);
+	background-repeat: no-repeat;
 }
 h1{
 	font-family: Georgia;
+	color: purple;
+	font-style: italic;
 }
 .message{
 	font-family: Brush Script MT;
 	font-size: 28px;
+	color: #E1E0E0 ;
 }
 .keyName{
 	font-family: New Century Schoolbook;
@@ -16,4 +20,7 @@ h1{
 .valueName{
 	font-family: Courier;
 	text-align: center;
+}
+.content-modified{
+	color: pink;
 }
